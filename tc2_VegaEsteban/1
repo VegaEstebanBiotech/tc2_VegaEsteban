@@ -1,0 +1,6 @@
+echo -e "\n" #Este comando designa saltos en linea.
+echo "Estas son las primeras 7 filas"
+head -n 7 EigenBetw.tsv 
+echo -e "\n"0
+echo "Estas spm ñas ultimas 5 filas"
+tail -n 5 EigenBetw.tsv
